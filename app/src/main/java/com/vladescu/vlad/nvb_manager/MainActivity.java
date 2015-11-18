@@ -183,7 +183,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         @Override
         protected String doInBackground(String... params) {
 
-            String content = ClientReqest.getData(params[0]);
+            String content="";
             return content;
         }
 
