@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NVB-MANAGER</string>
+    <string name="eMail">E-mail</string>
+    <string name="Password">Parola</string>
+    <string name="Login">Login</string>
+    <string name="nuAiCont">Nu ai cont?</string>
+    <string name="inregistrare">Inregistrare</string>
+    <string name="email">E-mail:</string>
+    <string name="parola">Parola:</string>
+    <string name="pass">parola:</string>
+    <string name="noInternet">Nu exista conexiune la intenet</string>
+    <string name="connectedToInternet">Conectat la reteaua de internet</string>
+    <string name="phone">Telefon:</string>
+    <string name="password">Parola:</string>
+    <string name="mail">E-mail:</string>
+    <string name="firstName">Prenume:</string>
+    <string name="familyName">Nume:</string>
+    <string name="accept">Accepta</string>
+    <string name="agree">REFUZA</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
